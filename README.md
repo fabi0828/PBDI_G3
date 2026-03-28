@@ -1,5 +1,6 @@
 # PBDI_G3
-## Proyecto de biodiseño
+## NOMBRE DEL PROYECTO
+
 <strong> Integrantes <strong>
 * Fabiana María Huiman Vásquez
 * Maria del Carmen Pierangeli Benites Calderón

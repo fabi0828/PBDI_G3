@@ -2,7 +2,7 @@
 # INPECARE
 ## Sistema de Detección de Anomalías por Bioimpedancia
 
-<img width="1209" height="299" alt="Untitled design" src="https://github.com/user-attachments/assets/e83d3c66-b214-453d-b546-7fb08824d8c0" />
+<img width="1186" height="299" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/2fa57586-be01-40a8-b967-a1d627ae8352" />
 
 
 <strong> Integrantes <strong>

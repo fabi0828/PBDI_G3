@@ -1,9 +1,10 @@
 # PBDI_G3
-## NOMBRE DEL PROYECTO
+## INPECARE
+# Sistema de Detección Mamaria por Bioimpedancia
 
 <strong> Integrantes <strong>
-* Fabiana María Huiman Vásquez
-* Maria del Carmen Pierangeli Benites Calderón
-* Andrea del Carmen Aliaga Alcántara
-* Leonil Evhan Yarud Chagua Terreros
-* Gianfranco Chuquiruna Urquiza
+1. Andrea del Carmen Aliaga Alcántara
+2. Fabiana María Huiman Vásquez
+3. Maria del Carmen Pierangeli Benites Calderón
+4. Leonil Evhan Yarud Chagua Terreros
+5. Gianfranco Chuquiruna Urquiza

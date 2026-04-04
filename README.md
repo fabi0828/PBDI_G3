@@ -5,6 +5,7 @@
 <img width="1186" height="299" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/2fa57586-be01-40a8-b967-a1d627ae8352" />
 
 
+
 <strong> Integrantes <strong>
 1. Andrea del Carmen Aliaga Alcántara - *Encargada de electrónica*
 2. Fabiana María Huiman Vásquez - *Encargada de manufactura digital*

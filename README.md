@@ -1,6 +1,6 @@
 ### PBDI_G3
 # INPECARE
-## Sistema de Detección Mamaria por Bioimpedancia
+## Sistema de Detección de Anomalías por Bioimpedancia
 
 <strong> Integrantes <strong>
 1. Andrea del Carmen Aliaga Alcántara

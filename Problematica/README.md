@@ -1,2 +1,26 @@
-# Problemática
-Descripción del problema
+## ¿ Espasticidad muscular?
+La espasticidad muscular es la incapacidad neuromotora presente en pacientes diagnosticados con trastornos neurológicos, afectando aproximadamente entre el 30% y el 80% de sobrevivientes a un accidente cerebrovascular (ACV) o también conocido como ictus. El trastorno motor se caracteriza por el aumento atípico del tono muscular como respuesta a la hiperexcitabilidad del reflejo de estiramiento del músculo perjudicado, generalmente músculos ubicados en la zona braquial de la persona, produciendo contracción involuntaria excesiva y rigidez muscular lo que dificulta significativamente su progreso en rehabilitación motora, calidad de vida y funcionalidad, impidiendo que la persona afectada realice actividades cotidianas sin dependencia de terceros. [1]
+
+## ACV en el Perú
+En Perú el ACV es una de las principales causas de muertes en adultos mayores de 60 años, afectando al 68% perteneciente a esta población y se reporta una tendencia creciente de la incidencia de la enfermedad aguda con el transcurso de los años. La mayoría de casos provienen de la provincia del país, Lima, y Callao con una registro del 84% de los casos [2]. En consecuencia a las estadísticas proporcionadas por el Instituto Nacional de Ciencias Neurológicas (INCN), el ictus se reporta como un problema de salud pública frecuente con alta demanda de rehabilitación post-accidente cerebrovascular
+
+Número de casos de pacientes post-accidente cerebrovascular hospitalizados en Lima y Callao en el año 2022 y 2023.
+<img width="979" height="364" alt="image" src="https://github.com/user-attachments/assets/f984aa76-1303-4567-8522-99ff89611f5a" />
+
+
+## Tratamiento actual
+En la actualidad para el tratamiento de la espasticidad muscular post-accidente cerebrovascular se incluyen diversos métodos de rehabilitación como la vibración focal, fisioterapia y farmacoterapia, frecuentemente aplicada [4, 5, 6]. En el método de rehabilitación más utilizado, la farmacoterapia, comúnmente se receta la toxina botulínica tipo A, neurotoxina que provoca parálisis muscular temporal para la reducción de la hipertonía muscular, que presenta resultados efectivos; sin embargo, la duración del efecto del fármaco varía de entre 3 a 4 meses requiriendo aplicaciones periódicas y monitoreo médico constante, además de su elevado costo por sesión de rehabilitación [6].
+
+## Dificultades actuales
+La rehabilitación de la espasticidad muscular post-ACV se requiere la participación constante de diferentes áreas médicas para la recuperación y mejoría de la funcionalidad del paciente y la prevención de futuras discapacidades secundarias tras la falta de tratamiento del trastorno motor en un área supervisada restringida, limitando la continuidad del tratamiento en el hogar y aumentando los costos de atención al paciente generando una brecha en el acceso a servicios de rehabilitación para post-ictus en contextos poblacionales del Perú.
+
+## Necesidad
+Como consecuencia de la ausencia de dispositivos electrónicos portátiles accesibles a adultos y adultos mayores afectados por la espasticidad muscular tras un accidente cerebrovascular, en un rango de entre 25 a 60 años, en la población peruana se identifica la necesidad de desarrollar un dispositivo biomédico wearable capaz de aplicar vibración focalizada a una específica frecuencia en la zona braquial del paciente afectado por la enfermedad aguda, después de la aplicación de dos diferentes métodos de rehabilitación se realizará la medición angular con sensores inerciales (IMU) y la respuesta a la estimulación con electromiografía de superficie (sEMG) que serán registrados por el modelo de aprendizaje automático para su posterior análisis basado en la literatura científica con el objetivo de obtener resultados precisos para complementar la rehabilitación del paciente mediante tratamientos personalizados e integrar el monitoreo clínico desde el hogar. 
+
+## Referencias
+[1] Kuo C-L, Hu G-C. Post-stroke spasticity: A review of epidemiology, pathophysiology, and treatments. Int J Gerontol [Internet]. 2018;12(4):280–4. Disponible en: http://dx.doi.org/10.1016/j.ijge.2018.05.005 
+[2] Hidalgo L. Boletín Epidemiológico I Trimestre 2024 - INCN [Internet]. Lima: Instituto Nacional de Ciencias Neurológicas. 2024  [citado el 20 de abril de 2026]. Disponible en: https://cdn.www.gob.pe/uploads/document/file/6431994/5628703-boletin-epidemiologico-i-trimestre-2024-incn.pdf
+[3] Ministerio de Salud. El accidente cerebrovascular o ictus isquémico es la segunda causa de muerte en el Perú [Internet]. Lima: Gob.pe. 23 de abril de 2025 [citado el 20 de abril de 2026]. Disponible en: https://www.gob.pe/institucion/minsa/noticias/1154558-el-accidente-cerebrovascular-o-ictus-isquemico-es-la-segunda-causa-de-muerte-en-el-peru 
+[4] Cabezaolias C, Raya R, Sánchez C, Rodríguez R, Urendes E. Effect of focal muscle vibration on sEMG activity during repeated elbow movements in healthy adults. J Neuroeng Rehabil [Internet]. 2025;23(1):2. Disponible en: http://dx.doi.org/10.1186/s12984-025-01816-4 
+[5] Chen Y-L, Jiang L-J, Cheng Y-Y, Chen C, Hu J, Zhang A-J, et al. Focal vibration of the plantarflexor and dorsiflexor muscles improves poststroke spasticity: a randomized single-blind controlled trial. Ann Phys Rehabil Med [Internet]. 2023;66(3):101670. Disponible en: http://dx.doi.org/10.1016/j.rehab.2022.101670 
+[6] Facciorusso S, Spina S, Picelli A, Baricich A, Francisco GE, Molteni F, et al. The role of botulinum toxin type-A in spasticity: Research trends from a bibliometric analysis. Toxins (Basel) [Internet]. 2024;16(4):184. PubMed PMID: 38668609.

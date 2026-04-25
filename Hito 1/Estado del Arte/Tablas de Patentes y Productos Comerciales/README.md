@@ -15,8 +15,7 @@
 
 | Característica | Myovolt | Vibramoov PHYSIO | Myo Gesture Control Armband |
 |---------------|--------|------------------|-----------------------------|
-|**Foto**|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/9be696e5-c3cd-42ef-8d13-0b9298244feb" />|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/cb74984d-5714-4bbf-8e39-cb0cfe42c0bb" />|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/b6f5670c-6ed6-46cb-bc50-523ea63567c1" />
-|
+|**Foto**|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/9be696e5-c3cd-42ef-8d13-0b9298244feb" />|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/cb74984d-5714-4bbf-8e39-cb0cfe42c0bb" />|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/b6f5670c-6ed6-46cb-bc50-523ea63567c1" />|
 | **Función** | Estimulación muscular mediante vibración focal para activación, recuperación y alivio de rigidez. | Rehabilitación neuromuscular mediante vibración localizada dirigida a modular tono muscular (espasticidad, movilidad). | Captura y análisis de actividad muscular para reconocimiento de gestos y control de sistemas externos. |
 | **Tipo de señal a medir** | No mide señales fisiológicas, solo genera vibración mecánica. | No mide señales fisiológicas, solo genera vibración mecánica controlada. | Mide señales eléctricas musculares (EMG) y datos de movimiento (IMU). |
 | **Frecuencia vibratoria** | ~30 – 120 Hz | ~80 – 120 Hz (enfocado en estimulación neuromuscular y reflejo tónico vibratorio) | No se aplica estímulo vibratorio. |

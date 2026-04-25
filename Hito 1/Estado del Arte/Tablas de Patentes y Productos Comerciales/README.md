@@ -1,6 +1,8 @@
 ## TABLA COMPARATIVA DE PATENTES
 
 | Característica | Wearable Focal Vibration Device and Methods of Use | A wearable muscle tendon vibration device for rehabilitation | Wearable electronic, multi-sensory, human/machine, human/human interfaces |
+|---------------|--------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Foto** |<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/531e4afd-54b6-48c8-a90b-7cf63d4db2ce" />|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/edd632f6-8fac-4c4b-8147-a899f17890dc" />|<img width="240" height="260" alt="image" src="https://github.com/user-attachments/assets/6210b308-eed1-4ea9-85c0-be20a1fbc2fd" />|
 | **Número** | US20210290482A1 | WO2022067428A1 | US10698492B2 |
 | **Enfoque** | Dispositivo wearable de vibración con monitoreo de condiciones de uso | Dispositivo wearable de vibración focal con control preciso del estímulo | Interfaz humano-máquina con sensado EMG y estimulación adaptativa |
 | **Tipo de estimulación** | Vibración mecánica localizada | Vibración mecánica focal (tendones) | Estimulación eléctrica (TENS/NMES) con feedback háptico |

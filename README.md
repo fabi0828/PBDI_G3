@@ -5,8 +5,8 @@
 <img width="1920" height="1080" alt="GRUPO 5" src="https://github.com/user-attachments/assets/a5c6b837-9da0-4c33-a1a9-e974988c7ff1" />
 
 
-<strong> ¡Conócenos! <strong>
-| Integrantes | Función |
+## ¡Conócenos!
+|            Integrantes            |            Nosotros            |            Función            |
 | ------------- | ------------- |
 | Celda A1 | Celda B1 |
 | Celda A2 | Celda B2 |

@@ -8,10 +8,7 @@
 ## ¡Conócenos!
 | Integrante | Foto | Función |
 |----------|----------|----------|
-| Andrea del Carmen Aliaga Alcántara
-*Encargada de electrónica*
-| <img width="240" height="288" alt="image" src="https://github.com/user-attachments/assets/dc63570b-7232-4760-b86b-dd00d7324461" />
-   | *Encargada de electrónica*    |
+| Andrea del Carmen Aliaga Alcántara| <img width="240" height="288" alt="image" src="https://github.com/user-attachments/assets/dc63570b-7232-4760-b86b-dd00d7324461" />| *Encargada de electrónica*    |
 | Fabiana María Huiman Vásquez| <img width="240" height="288" alt="FOTO CARNET (3) (1)" src="https://github.com/user-attachments/assets/ea69d623-9d0e-43f2-8fda-b8a030f3bb30" />
    | *Encargada de manufactura digital*   |
 | Maria del Carmen Pierangeli Benites Calderón| <img width="240" height="288" alt="WhatsApp Image 2026-04-03 at 7 44 07 PM (1)" src="https://github.com/user-attachments/assets/d684d15f-5a9e-434f-bed9-e05e0a5c5e34" />

@@ -4,23 +4,24 @@
 
 ## SECUENCIA DE OPERACIONES
 
-1. Deslice el interruptor lateral a la posición "ON".
-2. Verifique que la señal de encendido esté activa.
-3. Confirme que el dispositivo de almacenamiento de energía eléctrica cuenta con la carga necesaria para la sesión de tiempo máximo de 20 minutos. De lo contrario, cargue el dispositivo.
-4. Abra la aplicación "Spastic Flex" en su dispositivo móvil, active la conexión inalámbrica y enlace con el prototipo. Confirme de que el dispositivo se encuentre a una distancia menor a 1 metro para garantizar una conexión estable.
-5. Asegúrese de que la superficie de contacto esté limpia y en contacto con la piel para permitir una correcta transmisión térmica y de vibración.
-6. Posicione el cabezal del equipo directamente sobre el músculo ubicado en la zona posterior del brazo, tríceps braquial.
-7. Calibración Basal: Mantenga el brazo en una posición de reposo durante 10 segundos mientras la aplicación realiza la calibración de los sensores.
-8. Inicie el tratamiento desde la aplicación. El cabezal comenzará a calentarse gradualmente hasta alcanzar una temperatura terapéutica segura, sin exceder los 43°C para proteger la piel. El LED de "Fase 1" se iluminará cuando se alcance la temperatura óptima, no retire el dispositivo hasta entonces.
-9. Una vez alcanzada la temperatura terapéutica, el dispositivo activará automáticamente la vibración a 40 Hz para inducir la inhibición del reflejo espástico. 
-10. Durante máximo los 20 minutos de la sesión, el usuario debe realizar movimientos suaves de extensión siguiendo las indicaciones de su terapeuta.
-11. La aplicación mostrará en tiempo real la gráfica de la señal sEMG y la variación del ángulo articular capturada por los sensores inerciales para monitorear el progreso. 12. Los resultados serán guardados en la base de datos. 
-13. Al concluir el tiempo programado, el dispositivo detendrá la vibración y el calor de forma automática.
-14. Verifique que los datos se hayan subido a la nube correctamente.
-15. Deslice el interruptor manual a la posición "OFF".
-16. Retire el dispositivo del brazo y limpie el cabezal de contacto con un paño suave humedecido en alcohol isopropílico
-17. Guarde el equipo en su estuche en un ambiente seco y a temperatura estable. 
-Nota: El sistema supervisará constantemente la calidad de la señal y la temperatura. En caso de detectar una anomalía o una elevación excesiva de calor, el dispositivo emitirá una señal de aviso en la aplicación y reducirá la potencia automáticamente.
+### Fase de Inicialización 
+Conecte el cable de alimentación a un tomacorriente. Verifique que la señal visual de activación esté encendida en el chasis del dispositivo.
+Presione el interruptor físico. Este comando dispara la rutina de autodiagnóstico y establece el enlace con la estación de control (PC).
+El sistema ejecutará una toma de datos iniciales para registrar la actividad bioeléctrica basal y el ángulo articular en flexión y extensión durante 10 segundos antes de la estimulación.
+La aplicación notificará al terapeuta/usuario que el sistema ha alcanzado las condiciones óptimas para iniciar la Fase 1.
+### Fase 1: Terapia de Neuromodulación
+Coloque el cabezal de tratamiento sobre el Bíceps braquial.
+Presione el interruptor de activación para dar inicio a la emisión de estímulos. El prototipo comenzará a vibrar a una frecuencia constante de 40 Hz, durante 20 minutos.
+Una vez transcurrido el tiempo programado, se activará una señal visual de indicador de fin de terapia. En este instante, el sistema desenergizará automáticamente los actuadores de vibración por seguridad.
+### Fase 2: Evaluación Post-Terapia y Análisis
+Tras un breve lapso de reposo posterior al apagado de los estímulos, el sistema iniciará automáticamente la Fase 2.
+El usuario deberá flexionar y extender el brazo para la toma de datos finales. Los sensores capturarán la respuesta dinámica post-estimulación para cuantificar la mejora en el rango de movimiento y la reducción de la espasticidad.
+La información recolectada (sEMG e inercial) será transmitida en tiempo real hacia la PC para su almacenamiento en la base de datos local.
+Los registros guardados serán procesados mediante algoritmos de Machine Learning
+### Apagado y Mantenimiento
+Una vez confirmada la carga de datos, desconecte el equipo del tomacorriente.
+Limpie el cabezal de contacto con un paño humedecido en alcohol isopropílico.
+
 
 
 ## ESTRUCTURA DE FUNCIONES

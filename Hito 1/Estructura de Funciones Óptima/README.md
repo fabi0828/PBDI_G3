@@ -1,5 +1,7 @@
 ## BLAX BOX
 <img width="1077" height="611" alt="Caja negra" src="https://github.com/user-attachments/assets/f764e7cd-c532-4c73-b477-6cbe55b68834" />
+
+
 ## SECUENCIA DE OPERACIONES
 
 1. Deslice el interruptor lateral a la posición "ON".

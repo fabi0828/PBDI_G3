@@ -45,7 +45,7 @@ Finalmente con los resultados de la clasificación del modelo ML se concluye que
 
 
 ### Referencias
-[1] Cabezaolias C, Raya R, Sánchez C, Rodríguez R, Urendes E. Effect of focal muscle vibration on sEMG activity during repeated elbow movements in healthy adults. J Neuroeng Rehabil [Internet]. 2025;23(1):2. Disponible en: http://dx.doi.org/10.1186/s12984-025-01816-4 
+[1] Cabezaolias C, Raya R, Sánchez C, Rodríguez R, Urendes E. Effect of focal muscle vibration on sEMG activity during repeated elbow movements in healthy adults. J Neuroeng Rehabil [Internet]. 2025;23(1):2. Disponible en: http://dx.doi.org/10.1186/s12984-025-01816-4
 [2] Chen Y-L, Jiang L-J, Cheng Y-Y, Chen C, Hu J, Zhang A-J, et al. Focal vibration of the plantarflexor and dorsiflexor muscles improves poststroke spasticity: a randomized single-blind controlled trial. Ann Phys Rehabil Med [Internet]. 2023;66(3):101670. Disponible en: http://dx.doi.org/10.1016/j.rehab.2022.101670 
 [3] Banky M, Williams G, Davey R, Tirosh O. Inertia sensors for measuring spasticity of the ankle plantarflexors using the Modified Tardieu Scale-A proof of concept study. Sensors (Basel) [Internet]. 2022;22(14):5151. PubMed PMID: 35890831.
 [4]  Kim J-Y, Park G, Lee S-A, Nam Y. Analysis of machine learning-based assessment for elbow spasticity using inertial sensors. Sensors (Basel) [Internet]. 2020 [citado el 25 de abril de 2026];20(6):1622. PubMed PMID: 32183281.

@@ -1,8 +1,11 @@
 ### PBDI_G3
-# PONJIFLEXY
+# SPASTICFLEXY
 ## Sistema de neuromodulación vibratoria para la reducción de la espasticidad muscular
 
 <img width="1920" height="1080" alt="GRUPO 5" src="https://github.com/user-attachments/assets/a5c6b837-9da0-4c33-a1a9-e974988c7ff1" />
+
+## ¿Qué es SPASTICFLEXY?
+Dispositivo biomédico de neuromodulación generador de vibraciones a un determinado rango de frecuencias enfocado a la mejoría terapéutica de la capacidad motora en la zona braquial del paciente post-accidente cerebrovascular (ACV), y desarrollar la identificación de estímulos como reflejo del tratamiento y respuesta angular para el análisis biomecánico a realizar mediante un modelo de aprendizaje automático capacitado para la comparación de resultados obtenidos del usuario con respecto a parámetros clínicos establecidos por la literatura científica.
 
 
 ## ¡Conócenos!

@@ -43,6 +43,8 @@ A partir de los datos obtenidos en los intervalos de tiempo se calcularon result
 
 Finalmente con los resultados de la clasificación del modelo ML se concluye que el segundo método alcanza una precisión de 83.1% a diferencia del primer método con una precisión de 75.7%. Asimismo, el modelo ML utilizado el modelo Random Forest mostró una precisión de 95.4% en la detección del grado de espasticidad utilizando los parámetros establecidos por la escala MAS demostrando que los sensores IMU y el modelo ML permiten la evaluación de la reacción de la espasticidad en el codo a una alta precisión [4].
 
+
+### Referencias
 [1] Cabezaolias C, Raya R, Sánchez C, Rodríguez R, Urendes E. Effect of focal muscle vibration on sEMG activity during repeated elbow movements in healthy adults. J Neuroeng Rehabil [Internet]. 2025;23(1):2. Disponible en: http://dx.doi.org/10.1186/s12984-025-01816-4 
 [2] Chen Y-L, Jiang L-J, Cheng Y-Y, Chen C, Hu J, Zhang A-J, et al. Focal vibration of the plantarflexor and dorsiflexor muscles improves poststroke spasticity: a randomized single-blind controlled trial. Ann Phys Rehabil Med [Internet]. 2023;66(3):101670. Disponible en: http://dx.doi.org/10.1016/j.rehab.2022.101670 
 [3] Banky M, Williams G, Davey R, Tirosh O. Inertia sensors for measuring spasticity of the ankle plantarflexors using the Modified Tardieu Scale-A proof of concept study. Sensors (Basel) [Internet]. 2022;22(14):5151. PubMed PMID: 35890831.

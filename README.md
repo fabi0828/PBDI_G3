@@ -12,5 +12,6 @@
 | Fabiana María Huiman Vásquez  | Dato 5   | *Encargada de manufactura digital*   |
 | Maria del Carmen Pierangeli Benites Calderón   | Dato 8   | *Encargada de electrónica*  |
 | Leonil Evhan Yarud Chagua Terreros   | Dato 8   | *Encargado de software*  |
-| Gianfranco Chuquiruna Urquiza   | Dato 8   | *Encargado de software*  |
+| Gianfranco Chuquiruna Urquiza   | <img width="240" height="288" alt="WhatsApp Image 2026-04-04 at 9 29 33 AM (1)" src="https://github.com/user-attachments/assets/37d70ab1-3f4a-416c-8de1-5961bdaabb37" />
+  | *Encargado de software*  |
 

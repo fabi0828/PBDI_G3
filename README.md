@@ -6,14 +6,11 @@
 
 
 ## ¡Conócenos!
-|            Integrantes            |            Nosotros            |            Función            |
-| ------------- | ------------- |
-| Celda A1 | Celda B1 |
-| Celda A2 | Celda B2 |
+| Integrante | Foto | Función |
+|----------|----------|----------|
+| Andrea del Carmen Aliaga Alcántara   | Dato 2   | *Encargada de electrónica*    |
+| Fabiana María Huiman Vásquez  | Dato 5   | *Encargada de manufactura digital*   |
+| Maria del Carmen Pierangeli Benites Calderón   | Dato 8   | *Encargada de electrónica*  |
+| Leonil Evhan Yarud Chagua Terreros   | Dato 8   | *Encargado de software*  |
+| Gianfranco Chuquiruna Urquiza   | Dato 8   | *Encargado de software*  |
 
-
-1. Andrea del Carmen Aliaga Alcántara - *Encargada de electrónica*
-2. Fabiana María Huiman Vásquez - *Encargada de manufactura digital*
-3. Maria del Carmen Pierangeli Benites Calderón - *Encargada de electrónica*
-4. Leonil Evhan Yarud Chagua Terreros - *Encargado de software*
-5. Gianfranco Chuquiruna Urquiza - *Encargado de software*
